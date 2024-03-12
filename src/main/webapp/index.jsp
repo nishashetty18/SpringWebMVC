@@ -2,6 +2,7 @@
 <body>
 <h2>Hello World!</h2>
 
-<a href="info">Add Employee</a>
+<a href="#">Add Employee</a>
+<h1>Hi all</h1>
 </body>
 </html>
